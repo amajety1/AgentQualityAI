@@ -1,11 +1,7 @@
 
 # Sentiment Analysis Pipeline for Call Center Conversations 
 
-**Author:** Álvaro Rivera Arcelus
-
-### Relevant aspects
-*   This model is specifically developed for processing **Spanish conversations** this includes precise **mexican jargon**. Nevertheless, this same workflow can be applied for any language by only implementing subtle changes to the code. 
-
+**Author:** Aniket Majety
 
 ## Index
 
